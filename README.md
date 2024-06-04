@@ -19,4 +19,4 @@ Welcome to our group project! In this repository, we aim to implement our own ve
 - Example `main.c` files are provided for testing purposes. You can use them to test your functions, but they are not required to be pushed to your repository. Our own `main.c` files will be used during compilation, which may differ from the examples provided.
 
 ## Let's Get Started!
-Feel free to explore the project and contribute your ideas and code. Together, we can create a robust and efficient implementation of the `printf` function in C. Happy coding! 🚀
+Feel free to explore the project and contribute your ideas and code. Together, we can create a robust and efficient implementation of the `printf` function in C.
