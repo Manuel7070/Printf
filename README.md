@@ -14,7 +14,7 @@ Welcome to our group project! In this repository, we aim to implement our own ve
 - Global variables are not allowed
 - Each file should contain no more than 5 functions
 - Prototypes of all functions should be included in the header file `main.h`
-- Header files should be include guarded to prevent multiple inclusion
+- Header files should be included guarded to prevent multiple inclusion
 
 ### Testing
 - Example `main.c` files are provided for testing purposes. You can use them to test your functions, but they are not required to be pushed to your repository. Our own `main.c` files will be used during compilation, which may differ from the examples provided.
